@@ -1,0 +1,383 @@
+Scale Ticket #,Time In,Time Out,Commodity,Broker,Hauler,Heavy Weight (lbs),Light Weight (lbs),Net Weight  (lbs) AsFed,Bill Of Lading,Truck,Total
+,,,3 commodities,4 brokers,4 haulers,"36,868,565","12,864,100","24,004,465",,,
+,,,,,,"101,847","35,536","66,311",,,
+,,,Milk Barn 1,3 brokers,3 haulers,"21,976,125","7,673,080","14,303,045",,,
+,,,,,,"100,348","35,037","65,311",,,
+,,,Milk Barn 1,High Desert Milk,High Desert Milk,"13,434,140","4,727,200","8,706,940",,,
+,,,,,,"99,512","35,016","64,496",,,
+"66,535",1/1/22 1:10,1/1/22 2:20,Milk Barn 1,High Desert Milk,High Desert Milk,"111,360","43,140","68,220",163632,,0
+"66,540",1/1/22 10:49,1/1/22 11:46,Milk Barn 1,High Desert Milk,High Desert Milk,"107,600","44,060","63,540",164100,,0
+"66,542",1/1/22 13:16,1/1/22 14:10,Milk Barn 1,High Desert Milk,High Desert Milk,"102,180","38,540","63,640",164101,,0
+"66,546",1/1/22 20:58,1/1/22 22:10,Milk Barn 1,High Desert Milk,High Desert Milk,"108,000","39,640","68,360",164153,,0
+"66,547",1/2/22 1:16,1/2/22 2:29,Milk Barn 1,High Desert Milk,High Desert Milk,"107,740","39,640","68,100",163636,,0
+"66,549",1/2/22 2:58,1/2/22 4:18,Milk Barn 1,High Desert Milk,High Desert Milk,"104,860","38,920","65,940",164155,,0
+"66,550",1/2/22 4:21,1/2/22 5:44,Milk Barn 1,High Desert Milk,High Desert Milk,"101,400","37,820","63,580",163805,,0
+"66,555",1/2/22 13:10,1/2/22 14:11,Milk Barn 1,High Desert Milk,High Desert Milk,"102,660","38,360","64,300",164105,,0
+"66,557",1/2/22 16:07,1/2/22 16:58,Milk Barn 1,High Desert Milk,High Desert Milk,"103,460","39,060","64,400",163131,,0
+"66,560",1/2/22 21:23,1/2/22 22:45,Milk Barn 1,High Desert Milk,High Desert Milk,"108,180","38,380","69,800",164157,,0
+"66,561",1/3/22 0:09,1/3/22 1:07,Milk Barn 1,High Desert Milk,High Desert Milk,"99,400","39,220","60,180",163640,,0
+"66,562",1/3/22 3:19,1/3/22 4:33,Milk Barn 1,High Desert Milk,High Desert Milk,"107,000","38,920","68,080",164159,,0
+"66,563",1/3/22 4:21,1/3/22 5:30,Milk Barn 1,High Desert Milk,High Desert Milk,"108,200","38,900","69,300",163496,,0
+"66,579",1/3/22 11:58,1/3/22 13:12,Milk Barn 1,High Desert Milk,High Desert Milk,"106,780","39,080","67,700",163955,,0
+"66,590",1/3/22 16:18,1/3/22 17:14,Milk Barn 1,High Desert Milk,High Desert Milk,"103,560","35,820","67,740",163429,,0
+"66,592",1/3/22 17:51,1/3/22 18:44,Milk Barn 1,High Desert Milk,High Desert Milk,"103,980","35,400","68,580",162693,,0
+"66,597",1/4/22 2:10,1/4/22 2:58,Milk Barn 1,High Desert Milk,High Desert Milk,"105,000","35,240","69,760",163870,,0
+"66,598",1/4/22 4:32,1/4/22 5:34,Milk Barn 1,High Desert Milk,High Desert Milk,"104,380","35,940","68,440",164300,,0
+"66,608",1/4/22 15:24,1/4/22 16:30,Milk Barn 1,High Desert Milk,High Desert Milk,"106,100","35,340","70,760",163432,,0
+"66,610",1/4/22 16:13,1/4/22 17:08,Milk Barn 1,High Desert Milk,High Desert Milk,"108,200","36,420","71,780",162696,,0
+"66,615",1/4/22 18:14,1/4/22 19:14,Milk Barn 1,High Desert Milk,High Desert Milk,"98,480","29,980","68,500",7761,,0
+"66,618",1/5/22 4:06,1/5/22 5:30,Milk Barn 1,High Desert Milk,High Desert Milk,"106,440","37,940","68,500",163809,,0
+"66,643",1/5/22 16:36,1/5/22 17:28,Milk Barn 1,High Desert Milk,High Desert Milk,"99,040","36,020","63,020",163135,,0
+"66,647",1/6/22 1:21,1/6/22 2:27,Milk Barn 1,High Desert Milk,High Desert Milk,"102,980","34,880","68,100",163644,,0
+"66,657",1/6/22 8:33,1/6/22 9:52,Milk Barn 1,High Desert Milk,High Desert Milk,"106,160","35,280","70,880",163814,,0
+"66,676",1/6/22 14:51,1/6/22 15:51,Milk Barn 1,High Desert Milk,High Desert Milk,"103,100","33,100","70,000",163378,,0
+"66,678",1/6/22 15:40,1/6/22 16:33,Milk Barn 1,High Desert Milk,High Desert Milk,"98,140","32,900","65,240",163139,,0
+"66,687",1/6/22 23:57,1/7/22 1:03,Milk Barn 1,High Desert Milk,High Desert Milk,"100,920","32,880","68,040",163648,,0
+"66,690",1/7/22 3:30,1/7/22 4:24,Milk Barn 1,High Desert Milk,High Desert Milk,"100,780","32,800","67,980",164164,,0
+"66,691",1/7/22 4:15,1/7/22 5:26,Milk Barn 1,High Desert Milk,High Desert Milk,"100,520","32,180","68,340",164304,,0
+"66,727",1/7/22 16:01,1/7/22 16:55,Milk Barn 1,High Desert Milk,High Desert Milk,"99,380","30,440","68,940",163436,,0
+"66,729",1/7/22 16:49,1/7/22 17:40,Milk Barn 1,High Desert Milk,High Desert Milk,"100,040","30,680","69,360",164501,,0
+"66,735",1/7/22 20:27,1/7/22 21:19,Milk Barn 1,High Desert Milk,High Desert Milk,"100,000","30,060","69,940",163679,,0
+"66,738",1/8/22 3:22,1/8/22 4:22,Milk Barn 1,High Desert Milk,High Desert Milk,"99,920","29,920","70,000",7760,,0
+"66,739",1/8/22 4:11,1/8/22 5:43,Milk Barn 1,High Desert Milk,High Desert Milk,"101,480","30,820","70,660",164308,,0
+"66,748",1/8/22 16:42,1/8/22 17:36,Milk Barn 1,High Desert Milk,High Desert Milk,"83,980","30,220","53,760",163440,,0
+"66,751",1/8/22 21:54,1/8/22 22:56,Milk Barn 1,High Desert Milk,High Desert Milk,"98,520","30,180","68,340",163013,,0
+"66,754",1/9/22 2:48,1/9/22 3:32,Milk Barn 1,High Desert Milk,High Desert Milk,"99,880","30,200","69,680",163882,,0
+"66,756",1/9/22 4:14,1/9/22 5:10,Milk Barn 1,High Desert Milk,High Desert Milk,"97,960","30,100","67,860",164312,,0
+"66,762",1/10/22 4:06,1/10/22 5:38,Milk Barn 1,High Desert Milk,High Desert Milk,"100,080","29,980","70,100",163817,,0
+"66,787",1/10/22 15:16,1/10/22 16:10,Milk Barn 1,High Desert Milk,High Desert Milk,"92,520","29,360","63,160",163143,,0
+"66,792",1/10/22 18:29,1/10/22 19:29,Milk Barn 1,High Desert Milk,High Desert Milk,"97,780","29,800","67,980",163742,,0
+"66,796",1/11/22 4:13,1/11/22 5:33,Milk Barn 1,High Desert Milk,High Desert Milk,"95,840","29,460","66,380",163821,,0
+"66,826",1/11/22 15:46,1/11/22 16:42,Milk Barn 1,High Desert Milk,High Desert Milk,"99,720","29,480","70,240",163147,,0
+"66,830",1/11/22 20:50,1/11/22 21:54,Milk Barn 1,High Desert Milk,High Desert Milk,"97,320","29,540","67,780",164169,,0
+"66,831",1/11/22 23:00,1/12/22 0:07,Milk Barn 1,High Desert Milk,High Desert Milk,"90,140","29,320","60,820",164170,,0
+"66,832",1/12/22 0:51,1/12/22 1:50,Milk Barn 1,High Desert Milk,High Desert Milk,"95,660","29,640","66,020",164455,,0
+"66,835",1/12/22 4:14,1/12/22 5:20,Milk Barn 1,High Desert Milk,High Desert Milk,"89,740","29,500","60,240",164316,,0
+"66,866",1/12/22 16:12,1/12/22 16:59,Milk Barn 1,High Desert Milk,High Desert Milk,"95,080","28,960","66,120",163448,,0
+"66,869",1/12/22 17:03,1/12/22 17:51,Milk Barn 1,High Desert Milk,High Desert Milk,"83,740","29,140","54,600",164513,,0
+"66,872",1/12/22 20:20,1/12/22 21:20,Milk Barn 1,High Desert Milk,High Desert Milk,"99,140","28,800","70,340",163388,,0
+"66,877",1/13/22 0:55,1/13/22 1:49,Milk Barn 1,High Desert Milk,High Desert Milk,"100,400","29,800","70,600",163890,,0
+"66,878",1/13/22 4:09,1/13/22 5:20,Milk Barn 1,High Desert Milk,High Desert Milk,"99,280","29,000","70,280",164320,,0
+"66,895",1/13/22 11:46,1/13/22 12:42,Milk Barn 1,High Desert Milk,High Desert Milk,"93,700","29,880","63,820",164515,,0
+"66,908",1/13/22 15:44,1/13/22 16:34,Milk Barn 1,High Desert Milk,High Desert Milk,"103,560","35,560","68,000",164752,,0
+"66,912",1/13/22 21:09,1/13/22 22:14,Milk Barn 1,High Desert Milk,High Desert Milk,"100,180","35,420","64,760",164173,,0
+"66,914",1/13/22 23:30,1/14/22 0:53,Milk Barn 1,High Desert Milk,High Desert Milk,"103,100","35,300","67,800",164174,,0
+"66,915",1/14/22 1:36,1/14/22 2:20,Milk Barn 1,High Desert Milk,High Desert Milk,"103,560","34,640","68,920",163894,,0
+"66,917",1/14/22 4:58,1/14/22 5:48,Milk Barn 1,High Desert Milk,High Desert Milk,"92,840","34,580","58,260",163825,,0
+"66,944",1/14/22 16:20,1/14/22 17:20,Milk Barn 1,High Desert Milk,High Desert Milk,"101,020","35,920","65,100",163753,,0
+"66,949",1/14/22 20:49,1/14/22 22:03,Milk Barn 1,High Desert Milk,High Desert Milk,"106,860","36,180","70,680",164177,,0
+"66,950",1/14/22 23:35,1/15/22 0:38,Milk Barn 1,High Desert Milk,High Desert Milk,"102,120","35,980","66,140",164178,,0
+"66,951",1/15/22 0:26,1/15/22 1:25,Milk Barn 1,High Desert Milk,High Desert Milk,"106,640","36,480","70,160",164459,,0
+"66,952",1/15/22 3:55,1/15/22 5:07,Milk Barn 1,High Desert Milk,High Desert Milk,"83,980","35,700","48,280",163829,,0
+"66,962",1/15/22 13:24,1/15/22 14:18,Milk Barn 1,High Desert Milk,High Desert Milk,"106,220","35,920","70,300",164124,,0
+"66,968",1/15/22 16:01,1/15/22 17:08,Milk Barn 1,High Desert Milk,High Desert Milk,"104,800","35,700","69,100",163756,,0
+"66,969",1/15/22 16:03,1/15/22 17:45,Milk Barn 1,High Desert Milk,High Desert Milk,"106,020","36,320","69,700",163914,,0
+"66,972",1/16/22 4:09,1/16/22 5:31,Milk Barn 1,High Desert Milk,High Desert Milk,"102,500","35,600","66,900",163833,,0
+"66,983",1/16/22 15:50,1/16/22 17:00,Milk Barn 1,High Desert Milk,High Desert Milk,"107,300","35,260","72,040",163761,,0
+"66,985",1/16/22 21:02,1/16/22 22:11,Milk Barn 1,High Desert Milk,High Desert Milk,"102,200","35,180","67,020",164185,,0
+"66,986",1/16/22 23:17,1/17/22 0:32,Milk Barn 1,High Desert Milk,High Desert Milk,"102,680","35,560","67,120",164186,,0
+"66,987",1/17/22 1:17,1/17/22 2:15,Milk Barn 1,High Desert Milk,High Desert Milk,"105,660","35,740","69,920",164466,,0
+"66,989",1/17/22 4:12,1/17/22 5:26,Milk Barn 1,High Desert Milk,High Desert Milk,"104,040","35,720","68,320",164324,,0
+"67,012",1/17/22 14:16,1/17/22 15:10,Milk Barn 1,High Desert Milk,High Desert Milk,"106,900","36,560","70,340",163977,,0
+"67,025",1/17/22 17:43,1/17/22 19:01,Milk Barn 1,High Desert Milk,High Desert Milk,"106,280","36,460","69,820",164522,,0
+"67,026",1/17/22 17:45,1/17/22 19:03,Milk Barn 1,High Desert Milk,High Desert Milk,"104,940","36,320","68,620",164521,,0
+"67,030",1/17/22 22:01,1/17/22 23:07,Milk Barn 1,High Desert Milk,High Desert Milk,"101,100","36,320","64,780",163023,,0
+"67,033",1/18/22 4:02,1/18/22 5:14,Milk Barn 1,High Desert Milk,High Desert Milk,"99,460","35,420","64,040",164191,,0
+"67,034",1/18/22 4:13,1/18/22 6:00,Milk Barn 1,High Desert Milk,High Desert Milk,"101,640","35,920","65,720",164328,,0
+"67,068",1/19/22 4:09,1/19/22 5:18,Milk Barn 1,High Desert Milk,High Desert Milk,"101,220","36,280","64,940",164332,,0
+"67,085",1/19/22 11:33,1/19/22 12:25,Milk Barn 1,High Desert Milk,High Desert Milk,"100,060","35,780","64,280",160425,,0
+"67,095",1/19/22 16:26,1/19/22 17:26,Milk Barn 1,High Desert Milk,High Desert Milk,"106,060","36,060","70,000",160425,,0
+"67,062",1/18/22 16:53,1/19/22 17:34,Milk Barn 1,High Desert Milk,High Desert Milk,"103,320","35,600","67,720",163770,,0
+"67,096",1/19/22 17:47,1/19/22 18:54,Milk Barn 1,High Desert Milk,High Desert Milk,"92,620","36,440","56,180",164653,,0
+"67,098",1/20/22 1:32,1/20/22 2:31,Milk Barn 1,High Desert Milk,High Desert Milk,"102,420","36,360","66,060",164470,,0
+"67,101",1/20/22 4:04,1/20/22 5:07,Milk Barn 1,High Desert Milk,High Desert Milk,"101,280","35,660","65,620",163981,,0
+"67,135",1/20/22 16:22,1/20/22 17:15,Milk Barn 1,High Desert Milk,High Desert Milk,"106,420","35,840","70,580",163774,,0
+"67,140",1/21/22 3:15,1/21/22 4:22,Milk Barn 1,High Desert Milk,High Desert Milk,"98,680","36,080","62,600",164198,,0
+"67,141",1/21/22 4:14,1/21/22 5:21,Milk Barn 1,High Desert Milk,High Desert Milk,"105,540","36,000","69,540",164336,,0
+"67,167",1/21/22 16:46,1/21/22 17:40,Milk Barn 1,High Desert Milk,High Desert Milk,"100,260","35,580","64,680",164759,,0
+"67,170",1/21/22 22:10,1/21/22 23:12,Milk Barn 1,High Desert Milk,High Desert Milk,"89,820","36,540","53,280",163033,,0
+"67,172",1/22/22 2:02,1/22/22 2:54,Milk Barn 1,High Desert Milk,High Desert Milk,"93,780","36,160","57,620",164605,,0
+"67,174",1/22/22 4:11,1/22/22 5:24,Milk Barn 1,High Desert Milk,High Desert Milk,"95,300","36,220","59,080",164340,,0
+"67,185",1/22/22 15:55,1/22/22 16:48,Milk Barn 1,High Desert Milk,High Desert Milk,"72,420","36,260","36,160",164763,,0
+"67,188",1/22/22 21:01,1/22/22 22:00,Milk Barn 1,High Desert Milk,High Desert Milk,"97,800","35,780","62,020",163037,,0
+"67,189",1/22/22 23:48,1/23/22 0:39,Milk Barn 1,High Desert Milk,High Desert Milk,"98,720","36,340","62,380",164609,,0
+"67,191",1/23/22 4:05,1/23/22 5:02,Milk Barn 1,High Desert Milk,High Desert Milk,"99,280","36,300","62,980",164344,,0
+"67,202",1/23/22 15:38,1/23/22 16:30,Milk Barn 1,High Desert Milk,High Desert Milk,"99,600","35,920","63,680",164767,,0
+"67,206",1/23/22 20:54,1/23/22 21:50,Milk Barn 1,High Desert Milk,High Desert Milk,"101,180","35,660","65,520",163041,,0
+"67,209",1/24/22 4:35,1/24/22 5:28,Milk Barn 1,High Desert Milk,High Desert Milk,"100,300","35,420","64,880",164768,,0
+"67,235",1/24/22 13:48,1/24/22 14:35,Milk Barn 1,High Desert Milk,High Desert Milk,"104,360","35,620","68,740",164137,,0
+"67,241",1/24/22 15:11,1/24/22 16:25,Milk Barn 1,High Desert Milk,High Desert Milk,"99,000","35,740","63,260",163778,,0
+"67,248",1/24/22 17:16,1/24/22 17:59,Milk Barn 1,High Desert Milk,High Desert Milk,"98,060","36,560","61,500",164660,,0
+"67,251",1/24/22 20:22,1/24/22 21:16,Milk Barn 1,High Desert Milk,High Desert Milk,"97,440","36,840","60,600",164708,,0
+"67,253",1/25/22 1:06,1/25/22 2:14,Milk Barn 1,High Desert Milk,High Desert Milk,"103,280","37,300","65,980",164477,,0
+"67,255",1/25/22 3:18,1/25/22 4:22,Milk Barn 1,High Desert Milk,High Desert Milk,"97,240","36,760","60,480",165002,,0
+"67,293",1/25/22 16:50,1/25/22 17:49,Milk Barn 1,High Desert Milk,High Desert Milk,"107,180","36,620","70,560",163782,,0
+"67,295",1/25/22 17:58,1/25/22 18:53,Milk Barn 1,High Desert Milk,High Desert Milk,"88,180","36,580","51,600",164664,,0
+"67,298",1/25/22 23:30,1/26/22 0:45,Milk Barn 1,High Desert Milk,High Desert Milk,"88,280","36,480","51,800",164480,,0
+"67,300",1/26/22 2:46,1/26/22 3:48,Milk Barn 1,High Desert Milk,High Desert Milk,"86,120","36,220","49,900",165006,,0
+"67,301",1/26/22 4:20,1/26/22 5:49,Milk Barn 1,High Desert Milk,High Desert Milk,"88,060","36,640","51,420",164349,,0
+"67,335",1/26/22 16:08,1/26/22 17:01,Milk Barn 1,High Desert Milk,High Desert Milk,"93,380","36,300","57,080",164774,,0
+"67,338",1/26/22 17:21,1/26/22 18:03,Milk Barn 1,High Desert Milk,High Desert Milk,"82,700","35,700","47,000",164541,,0
+"67,342",1/27/22 2:09,1/27/22 3:26,Milk Barn 1,High Desert Milk,High Desert Milk,"88,460","35,920","52,540",163918,,0
+"67,344",1/27/22 4:31,1/27/22 5:56,Milk Barn 1,High Desert Milk,High Desert Milk,"96,620","36,140","60,480",165053,,0
+"67,382",1/27/22 16:43,1/27/22 17:33,Milk Barn 1,High Desert Milk,High Desert Milk,"93,380","36,300","57,080",164545,,0
+"67,390",1/28/22 1:39,1/28/22 2:29,Milk Barn 1,High Desert Milk,High Desert Milk,"96,500","34,920","61,580",164620,,0
+"67,391",1/28/22 4:05,1/28/22 5:09,Milk Barn 1,High Desert Milk,High Desert Milk,"95,640","35,960","59,680",164904,,0
+"67,420",1/28/22 14:46,1/28/22 15:34,Milk Barn 1,High Desert Milk,High Desert Milk,"98,580","35,880","62,700",163786,,0
+"67,430",1/28/22 18:04,1/28/22 19:06,Milk Barn 1,High Desert Milk,High Desert Milk,"92,020","35,780","56,240",164668,,0
+"67,433",1/28/22 22:54,1/29/22 0:04,Milk Barn 1,High Desert Milk,High Desert Milk,"99,640","36,040","63,600",164483,,0
+"67,437",1/29/22 2:51,1/29/22 4:06,Milk Barn 1,High Desert Milk,High Desert Milk,"90,860","35,340","55,520",165010,,0
+"67,438",1/29/22 4:02,1/29/22 5:06,Milk Barn 1,High Desert Milk,High Desert Milk,"97,460","36,160","61,300",164908,,0
+"67,462",1/29/22 16:29,1/29/22 16:00,Milk Barn 1,High Desert Milk,High Desert Milk,"104,200","35,660","68,540",163484,,0
+"67,458",1/29/22 15:19,1/29/22 16:22,Milk Barn 1,High Desert Milk,High Desert Milk,"104,440","35,880","68,560",163796,,0
+"67,465",1/30/22 2:54,1/30/22 4:22,Milk Barn 1,High Desert Milk,High Desert Milk,"83,480","34,220","49,260",165014,,0
+"67,466",1/30/22 4:07,1/30/22 5:21,Milk Barn 1,High Desert Milk,High Desert Milk,"84,440","33,640","50,800",165057,,0
+"67,473",1/30/22 14:04,1/30/22 14:53,Milk Barn 1,High Desert Milk,High Desert Milk,"101,620","35,720","65,900",164621,,0
+"67,476",1/30/22 16:13,1/30/22 17:13,Milk Barn 1,High Desert Milk,High Desert Milk,"106,840","35,960","70,880",163794,,0
+"67,478",1/30/22 16:59,1/30/22 17:54,Milk Barn 1,High Desert Milk,High Desert Milk,"96,760","35,980","60,780",164676,,0
+"67,482",1/30/22 23:53,1/31/22 1:02,Milk Barn 1,High Desert Milk,High Desert Milk,"97,400","35,720","61,680",164490,,0
+"67,483",1/31/22 3:26,1/31/22 4:26,Milk Barn 1,High Desert Milk,High Desert Milk,"98,820","35,340","63,480",165018,,0
+"67,484",1/31/22 4:07,1/31/22 5:43,Milk Barn 1,High Desert Milk,High Desert Milk,"98,320","36,140","62,180",165061,,0
+"67,511",1/31/22 15:12,1/31/22 16:15,Milk Barn 1,High Desert Milk,High Desert Milk,"100,360","35,540","64,820",164778,,0
+"67,516",1/31/22 20:47,1/31/22 21:59,Milk Barn 1,High Desert Milk,High Desert Milk,"105,440","35,480","69,960",164556,,0
+,,,Milk Barn 1,Jerome Cheese Agropur,2 haulers,"1,453,625","514,880","938,745",,,
+,,,,,,"103,830","36,777","67,053",,,
+"66,822",1/11/22 14:48,1/11/22 15:38,Milk Barn 1,Jerome Cheese Agropur,Magic Valley Quality Milk,"98,320","29,820","68,500",383740,,0
+"66,979",1/16/22 14:18,1/16/22 15:19,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"108,145","37,700","70,445",40725,,0
+"67,046",1/18/22 11:16,1/18/22 12:00,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"104,920","39,320","65,600",654646,,0
+"67,055",1/18/22 14:30,1/18/22 15:27,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"106,560","37,440","69,120",660764,,0
+"67,058",1/18/22 15:16,1/18/22 16:55,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"109,280","39,240","70,040",642533,,0
+"67,065",1/18/22 18:12,1/18/22 19:38,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"100,000","37,580","62,420",644703,,0
+"67,080",1/19/22 9:51,1/19/22 11:09,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"103,980","37,880","66,100",639767,,0
+"67,106",1/20/22 6:40,1/20/22 8:09,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"114,360","38,120","76,240",660720,,0
+"67,150",1/21/22 9:48,1/21/22 10:47,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"107,300","37,440","69,860",638772,,0
+"67,200",1/23/22 14:20,1/23/22 15:11,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"105,440","34,060","71,380",45013013,,0
+"67,245",1/24/22 16:27,1/24/22 17:28,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"104,580","35,500","69,080",639439     BARN 1,,0
+"67,340",1/26/22 20:09,1/26/22 21:04,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"89,520","35,400","54,120",4503014,,0
+"67,370",1/27/22 13:42,1/27/22 14:47,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"105,640","36,060","69,580",642102,,0
+"67,406",1/28/22 10:30,1/28/22 11:41,Milk Barn 1,Jerome Cheese Agropur,Giltner ,"95,580","39,320","56,260",660169,,0
+,,,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"7,088,360","2,431,000","4,657,360",,,
+,,,,,,"101,262","34,729","66,534",,,
+"66,541",1/1/22 11:58,1/1/22 13:00,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"107,700","39,060","68,640",11839872,,0
+"66,543",1/1/22 15:05,1/1/22 16:15,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"108,200","38,940","69,260",376476,,0
+"66,548",1/2/22 2:33,1/2/22 3:38,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,740","36,840","67,900",112345,,0
+"66,554",1/2/22 11:54,1/2/22 12:57,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,680","36,680","67,000",11860931,,0
+"66,556",1/2/22 14:59,1/2/22 16:13,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,000","37,460","66,540",375497,,0
+"66,578",1/3/22 11:56,1/3/22 12:54,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"108,620","38,360","70,260",383999,,0
+"66,587",1/3/22 15:36,1/3/22 16:35,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"96,660","34,720","61,940",384000,,0
+"66,596",1/3/22 23:03,1/4/22 0:34,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,260","32,880","68,380",375279,,0
+"66,604",1/4/22 13:15,1/4/22 14:12,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,160","35,440","67,720",383729,,0
+"66,613",1/4/22 16:49,1/4/22 17:49,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,880","34,840","69,040",383730,,0
+"66,634",1/5/22 12:19,1/5/22 13:15,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,300","35,360","67,940",383732,,0
+"66,641",1/5/22 15:37,1/5/22 16:31,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,640","34,700","68,940",383733,,0
+"66,648",1/6/22 2:58,1/6/22 4:12,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"102,280","34,320","67,960",11860919,,0
+"66,664",1/6/22 12:03,1/6/22 13:02,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,220","35,240","69,980",383496,,0
+"66,675",1/6/22 14:33,1/6/22 15:32,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,500","33,820","69,680",375438,,0
+"66,715",1/7/22 12:26,1/7/22 13:24,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,780","31,920","69,860",375439,,0
+"66,724",1/7/22 14:51,1/7/22 15:49,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,340","31,320","70,020",375440,,0
+"66,737",1/8/22 2:30,1/8/22 3:34,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,400","30,080","68,320",60942,,0
+"66,744",1/8/22 12:20,1/8/22 13:23,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,100","30,780","70,320",375442,,0
+"66,746",1/8/22 15:42,1/8/22 16:39,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"100,480","30,300","70,180",11860947,,0
+"66,759",1/9/22 8:37,1/9/22 9:37,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,160","30,560","70,600",375901,,0
+"66,768",1/10/22 11:36,1/10/22 12:37,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,900","31,380","70,520",383499,,0
+"66,779",1/10/22 14:07,1/10/22 15:22,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"100,200","30,220","69,980",383500,,0
+"66,815",1/11/22 12:24,1/11/22 13:17,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,780","30,500","67,280",383739,,0
+"66,834",1/12/22 3:08,1/12/22 4:24,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"95,660","28,920","66,740",11795912,,0
+"66,855",1/12/22 12:13,1/12/22 13:10,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,500","29,960","68,540",383742,,0
+"66,863",1/12/22 14:35,1/12/22 15:22,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"96,640","29,600","67,040",383743,,0
+"66,898",1/13/22 12:16,1/13/22 13:10,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,340","29,460","68,880",383745,,0
+"66,906",1/13/22 14:55,1/13/22 15:49,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,300","29,380","74,920",383746,,0
+"66,916",1/14/22 4:02,1/14/22 5:03,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"100,940","34,680","66,260",5901,,0
+"66,941",1/14/22 15:17,1/14/22 16:16,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,360","36,160","70,200",375905,,0
+"66,961",1/15/22 12:27,1/15/22 13:30,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,280","36,060","70,220",375907,,0
+"66,967",1/15/22 15:47,1/15/22 16:46,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,400","36,060","70,340",375908,,0
+"66,971",1/16/22 3:29,1/16/22 4:48,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,020","35,020","68,000",8155,,0
+"66,976",1/16/22 12:05,1/16/22 13:08,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,160","35,840","70,320",375910,,0
+"66,982",1/16/22 15:09,1/16/22 16:02,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,880","35,800","70,080",375911,,0
+"67,008",1/17/22 12:26,1/17/22 13:24,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,080","36,120","69,960",374777,,0
+"67,017",1/17/22 14:58,1/17/22 15:59,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,460","36,120","70,340",374778,,0
+"67,032",1/18/22 3:42,1/18/22 4:52,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,780","35,300","66,480",375234,,0
+"67,050",1/18/22 12:01,1/18/22 13:04,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"102,980","36,120","66,860",374780,,0
+"67,057",1/18/22 14:58,1/18/22 16:05,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,580","36,100","67,480",374781,,0
+"67,088",1/19/22 12:47,1/19/22 13:41,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,860","36,080","67,780",383755,,0
+"67,091",1/19/22 15:31,1/19/22 16:23,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,320","36,060","68,260",383756,,0
+"67,100",1/20/22 2:35,1/20/22 3:41,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"99,880","35,140","64,740",11928134,,0
+"67,125",1/20/22 11:57,1/20/22 12:50,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,900","36,080","67,820",3837588,,0
+"67,132",1/20/22 14:32,1/20/22 15:24,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,500","36,060","68,440",383759,,0
+"67,156",1/21/22 12:59,1/21/22 13:59,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,360","36,180","65,180",11928140,,0
+"67,163",1/21/22 15:54,1/21/22 16:53,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,800","36,080","68,720",374783,,0
+"67,173",1/22/22 3:26,1/22/22 4:35,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"96,520","35,620","60,900",8162,,0
+"67,181",1/22/22 12:09,1/22/22 13:19,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"102,860","36,160","66,700",11928172,,0
+"67,184",1/22/22 15:01,1/22/22 16:00,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,340","36,040","70,300",374785,,0
+"67,197",1/23/22 11:13,1/23/22 12:14,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,180","36,100","65,080",11960985,,0
+"67,203",1/23/22 17:11,1/23/22 18:05,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,440","36,040","65,400",374787,,0
+"67,208",1/24/22 2:57,1/24/22 4:12,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,540","35,340","63,200",1234,,0
+"67,227",1/24/22 11:18,1/24/22 12:18,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"96,960","35,940","61,020",11960991,,0
+"67,239",1/24/22 14:50,1/24/22 15:49,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,220","35,880","70,340",374790,,0
+"67,271",1/25/22 11:11,1/25/22 12:14,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"70,300","36,880","33,420",11960970,,0
+"67,283",1/25/22 13:54,1/25/22 15:10,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,560","36,360","70,200",374792,,0
+"67,325",1/26/22 12:09,1/26/22 13:03,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,820","36,100","61,720",383765,,0
+"67,332",1/26/22 14:36,1/26/22 16:01,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,760","36,060","61,700",383766,,0
+"67,362",1/27/22 11:58,1/27/22 12:54,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,820","35,920","61,900",37077,,0
+"67,383",1/27/22 16:56,1/27/22 18:23,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,020","35,940","62,080",383767,,0
+"67,387",1/27/22 23:08,1/28/22 0:39,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"100,960","34,980","65,980",11960964,,0
+"67,416",1/28/22 13:49,1/28/22 14:44,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,040","36,260","64,780",37197,,0
+"67,425",1/28/22 16:13,1/28/22 16:56,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"91,140","36,100","55,040",383768,,0
+"67,446",1/29/22 8:39,1/29/22 9:40,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,980","35,920","62,060",11960998,,0
+"67,457",1/29/22 14:48,1/29/22 15:44,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,680","35,860","69,820",374703,,0
+"67,464",1/30/22 0:06,1/30/22 1:26,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"77,580","31,140","46,440",90434,,0
+"67,471",1/30/22 12:35,1/30/22 13:40,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"95,540","36,160","59,380",11990443,,0
+"67,475",1/30/22 15:11,1/30/22 16:11,Milk Barn 1,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,140","36,100","68,040",374794,,0
+,,,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"8,394,500","2,886,060","5,508,440",,,
+,,,,,,"103,636","35,630","68,005",,,
+,,,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"8,394,500","2,886,060","5,508,440",,,
+,,,,,,"103,636","35,630","68,005",,,
+"66,538",1/1/22 9:47,1/1/22 10:47,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"115,700","43,700","72,000",8078,,0
+"66,537",1/1/22 9:10,1/1/22 11:17,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"109,820","42,020","67,800",4412686,,0
+"66,545",1/1/22 18:58,1/1/22 20:31,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"108,580","39,000","69,580",4412685,,0
+"66,551",1/2/22 6:29,1/2/22 7:42,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,880","38,740","67,140",4412700,,0
+"66,559",1/2/22 19:51,1/2/22 20:58,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,660","39,900","65,760",4412688,,0
+"66,565",1/3/22 6:45,1/3/22 7:51,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"115,160","43,520","71,640",4412689,,0
+"66,583",1/3/22 13:22,1/3/22 14:23,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,600","40,020","64,580",4412553,,0
+"66,595",1/3/22 19:41,1/3/22 20:41,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,900","32,900","71,000",7656,,0
+"66,616",1/4/22 21:49,1/4/22 13:23,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"107,780","36,780","71,000",7994,,0
+"66,619",1/5/22 6:29,1/5/22 7:43,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"115,180","39,960","75,220",42369,,0
+"66,630",1/5/22 11:25,1/5/22 12:57,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"114,560","38,760","75,800",44-12621,,0
+"66,645",1/5/22 19:40,1/5/22 21:06,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"109,480","36,860","72,620",44-12624,,0
+"66,649",1/6/22 5:55,1/6/22 6:51,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,340","34,320","71,020",4412623,,0
+"66,666",1/6/22 12:26,1/6/22 13:31,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,640","34,920","70,720",4412622,,0
+"66,686",1/6/22 19:36,1/6/22 20:59,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,520","34,640","70,880",44-12620,,0
+"66,688",1/7/22 0:20,1/7/22 1:35,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,280","32,740","72,540",12619,,0
+"66,692",1/7/22 6:22,1/7/22 7:27,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"102,520","32,220","70,300",4412555,,0
+"66,705",1/7/22 10:26,1/7/22 11:44,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,920","32,160","71,760",4412556,,0
+"66,734",1/7/22 20:19,1/7/22 21:36,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"102,700","34,080","68,620",4412557,,0
+"66,750",1/8/22 21:20,1/8/22 22:47,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"101,780","30,060","71,720",4412563,,0
+"66,753",1/9/22 1:04,1/9/22 2:13,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"101,000","32,100","68,900",4412564,,0
+"66,760",1/9/22 9:58,1/9/22 11:09,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,180","30,300","72,880",4412516,,0
+"66,793",1/10/22 18:39,1/10/22 20:00,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"99,440","29,720","69,720",4412568,,0
+"66,798",1/11/22 7:13,1/11/22 8:07,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"98,520","31,440","67,080",4412616,,0
+"66,827",1/11/22 16:12,1/11/22 17:32,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"99,440","29,580","69,860",4412569,,0
+"66,833",1/12/22 1:22,1/12/22 2:31,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"98,320","29,740","68,580",44-12570,,0
+"66,836",1/12/22 4:26,1/12/22 5:22,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"97,780","29,480","68,300",4412571,,0
+"66,840",1/12/22 8:12,1/12/22 9:26,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"106,440","32,080","74,360",4412615,,0
+"66,871",1/12/22 20:08,1/12/22 21:33,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"107,160","31,400","75,760",44-12572,,0
+"66,873",1/13/22 0:29,1/13/22 1:53,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"99,860","29,140","70,720",44-12573,,0
+"66,879",1/13/22 5:59,1/13/22 7:27,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"100,920","29,380","71,540",4412575,,0
+"66,911",1/13/22 20:04,1/13/22 21:26,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"107,700","35,040","72,660",44-12574,,0
+"66,913",1/13/22 21:58,1/14/22 0:03,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"113,360","37,080","76,280",4412576,,0
+"66,920",1/14/22 6:35,1/14/22 7:51,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,440","35,100","70,340",4412577,,0
+"66,922",1/14/22 7:58,1/14/22 9:05,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,780","35,560","70,220",4412578,,0
+"66,948",1/14/22 20:38,1/14/22 22:16,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,940","35,940","69,000",4412579,,0
+"66,953",1/15/22 5:50,1/15/22 6:50,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,520","35,600","68,920",4412614,,0
+"66,966",1/15/22 14:48,1/15/22 16:12,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,100","37,620","66,480",4412580,,0
+"66,970",1/15/22 19:03,1/15/22 20:30,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,920","35,700","69,220",4412581,,0
+"66,973",1/16/22 5:47,1/16/22 7:06,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,920","35,320","68,600",4412613,,0
+"66,980",1/16/22 14:19,1/16/22 15:37,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"114,220","37,700","76,520",4412618,,0
+"66,984",1/16/22 18:42,1/16/22 19:42,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"67,780","37,380","30,400",4412612,,0
+"66,988",1/17/22 4:01,1/17/22 5:04,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,440","35,340","69,100",44125882,,0
+"67,027",1/17/22 18:25,1/17/22 20:10,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,200","35,820","69,380",44-12584,,0
+"67,031",1/18/22 2:06,1/18/22 3:21,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,400","38,140","65,260",44-12585,,0
+"67,044",1/18/22 10:46,1/18/22 11:51,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"107,260","36,780","70,480",4413201,,0
+"67,066",1/19/22 1:53,1/19/22 3:01,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"100,300","35,800","64,500",44-13202,,0
+"67,069",1/19/22 6:16,1/19/22 7:37,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,680","35,780","68,900",4413204,,0
+"67,097",1/19/22 20:09,1/19/22 21:48,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"106,020","37,740","68,280",4413203,,0
+"67,099",1/20/22 2:01,1/20/22 3:10,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"102,380","35,640","66,740",44-13205,,0
+"67,137",1/20/22 18:49,1/20/22 20:24,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"100,360","36,420","63,940",44-133296,,0
+"67,138",1/20/22 22:08,1/20/22 23:37,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,920","36,880","67,040",4413209,,0
+"67,169",1/21/22 20:17,1/21/22 21:31,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"97,960","33,400","64,560",4413206,,0
+"67,175",1/22/22 6:11,1/22/22 8:51,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"109,400","38,620","70,780",4413295,,0
+"67,179",1/22/22 11:05,1/22/22 12:06,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,400","36,420","67,980",4413294,,0
+"67,180",1/22/22 11:46,1/22/22 13:04,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,780","35,600","69,180",4413293,,0
+"67,186",1/22/22 17:16,1/22/22 18:25,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"107,540","39,160","68,380",4413292,,0
+"67,192",1/23/22 4:08,1/23/22 5:05,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"101,760","37,580","64,180",4413207,,0
+"67,204",1/23/22 18:21,1/23/22 19:46,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"108,160","37,360","70,800",44-13208,,0
+"67,205",1/23/22 20:44,1/23/22 22:02,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"98,820","37,500","61,320",4413210,,0
+"67,210",1/24/22 5:52,1/24/22 6:59,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"106,760","36,000","70,760",4413291,,0
+"67,234",1/24/22 13:40,1/24/22 15:00,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"105,060","35,680","69,380",4413211,,0
+"67,243",1/24/22 15:42,1/24/22 17:05,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,840","35,520","69,320",4413212,,0
+"67,252",1/25/22 0:04,1/25/22 1:54,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"98,940","38,820","60,120",44-13290,,0
+"67,288",1/25/22 15:19,1/25/22 16:21,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"108,780","39,860","68,920",13289,,0
+"67,297",1/25/22 19:05,1/25/22 20:40,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"93,140","35,860","57,280",44-13213,,0
+"67,302",1/26/22 6:05,1/26/22 7:22,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"100,520","38,080","62,440",4413214,,0
+"67,339",1/26/22 18:18,1/26/22 19:36,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"96,340","35,720","60,620",4413215,,0
+"67,341",1/26/22 23:16,1/27/22 0:32,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"98,360","35,700","62,660",4413216,,0
+"67,345",1/27/22 5:58,1/27/22 7:11,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"99,940","34,040","65,900",4413227,,0
+"67,385",1/27/22 19:50,1/27/22 21:37,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"94,840","37,360","57,480",4413218,,0
+"67,388",1/27/22 23:14,1/28/22 0:59,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"104,640","35,400","69,240",660397,,0
+"67,401",1/28/22 8:56,1/28/22 10:41,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"115,260","39,400","75,860",4413219,,0
+"67,432",1/28/22 19:28,1/28/22 21:01,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,000","35,560","67,440",4413220,,0
+"67,439",1/29/22 5:04,1/29/22 6:45,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"101,660","35,660","66,000",4413221,,0
+"67,459",1/29/22 15:50,1/29/22 17:09,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"106,120","35,680","70,440",4413223,,0
+"67,463",1/29/22 19:04,1/29/22 20:48,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"75,580","29,740","45,840",44013222,,0
+"67,474",1/30/22 14:25,1/30/22 15:27,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,140","33,960","69,180",13224,,0
+"67,479",1/30/22 18:15,1/30/22 19:47,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"99,300","37,080","62,220",44-13225,,0
+"67,485",1/31/22 6:01,1/31/22 7:05,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"106,000","35,700","70,300",4413227,,0
+"67,515",1/31/22 19:23,1/31/22 20:43,Milk Barn 4,Jerome Cheese Agropur,Giltner ,"103,760","35,560","68,200",4413228,,0
+,,,Milk Barn 5,2 brokers,2 haulers,"6,497,940","2,304,960","4,192,980",,,
+,,,,,,"104,805","37,177","67,629",,,
+,,,Milk Barn 5,Gossner Foods,Thornley,"2,451,900","901,520","1,550,380",,,
+,,,,,,"111,450","40,978","70,472",,,
+"66,409",12/25/21 5:34,1/1/22 10:20,Milk Barn 5,Gossner Foods,Thornley,"51,900","47,480","4,420",0,,0
+"66,539",1/1/22 10:20,1/1/22 11:43,Milk Barn 5,Gossner Foods,Thornley,"132,880","51,920","80,960",442133,,0
+"66,646",1/5/22 21:38,1/5/22 22:36,Milk Barn 5,Gossner Foods,Thornley,"98,900","34,380","64,520",442144,,0
+"66,650",1/6/22 6:26,1/6/22 7:35,Milk Barn 5,Gossner Foods,Thornley,"131,560","45,460","86,100",442145,,0
+"66,658",1/6/22 9:12,1/6/22 10:36,Milk Barn 5,Gossner Foods,Thornley,"132,580","45,780","86,800",442146,,0
+"66,694",1/7/22 7:22,1/7/22 8:42,Milk Barn 5,Gossner Foods,Thornley,"121,440","39,380","82,060",442148,,0
+"66,743",1/8/22 11:52,1/8/22 12:52,Milk Barn 5,Gossner Foods,Thornley,"87,000","36,900","50,100",P00000,,0
+"66,757",1/9/22 6:51,1/9/22 7:59,Milk Barn 5,Gossner Foods,Thornley,"122,880","36,880","86,000",442303,,0
+"66,810",1/11/22 10:50,1/11/22 11:54,Milk Barn 5,Gossner Foods,Thornley,"119,140","39,940","79,200",442307,,0
+"66,896",1/13/22 11:55,1/13/22 12:57,Milk Barn 5,Gossner Foods,Thornley,"92,980","28,960","64,020",442312,,0
+"66,905",1/13/22 14:28,1/13/22 15:22,Milk Barn 5,Gossner Foods,Thornley,"99,940","28,880","71,060",442313,,0
+"66,954",1/15/22 6:48,1/15/22 8:09,Milk Barn 5,Gossner Foods,Thornley,"131,140","46,440","84,700",442457,,0
+"66,975",1/16/22 10:04,1/16/22 11:43,Milk Barn 5,Gossner Foods,Thornley,"133,680","43,260","90,420",442088,,0
+"66,977",1/16/22 12:23,1/16/22 13:40,Milk Barn 5,Gossner Foods,Thornley,"131,000","46,320","84,680",442502,,0
+"67,004",1/17/22 11:37,1/17/22 12:57,Milk Barn 5,Gossner Foods,Thornley,"99,880","35,420","64,460",442316,,0
+"67,155",1/21/22 11:32,1/21/22 12:52,Milk Barn 5,Gossner Foods,Thornley,"127,900","47,060","80,840",442507,,0
+"67,183",1/22/22 14:35,1/22/22 15:45,Milk Barn 5,Gossner Foods,Thornley,"99,520","35,880","63,640",442508,,0
+"67,196",1/23/22 9:58,1/23/22 11:12,Milk Barn 5,Gossner Foods,Thornley,"136,300","46,500","89,800",442325,,0
+"67,267",1/25/22 10:07,1/25/22 11:08,Milk Barn 5,Gossner Foods,Thornley,"92,600","36,220","56,380",442330,,0
+"67,386",1/27/22 20:10,1/27/22 21:14,Milk Barn 5,Gossner Foods,Thornley,"90,480","35,340","55,140",442510,,0
+"67,407",1/28/22 11:02,1/28/22 12:23,Milk Barn 5,Gossner Foods,Thornley,"123,760","46,820","76,940",442512,,0
+"67,442",1/29/22 7:57,1/29/22 8:57,Milk Barn 5,Gossner Foods,Thornley,"94,440","46,300","48,140",0,,0
+,,,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"4,046,040","1,403,440","2,642,600",,,
+,,,,,,"101,151","35,086","66,065",,,
+"66,536",1/1/22 4:09,1/1/22 5:09,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"110,280","41,280","69,000",7489,,0
+"66,552",1/2/22 8:08,1/2/22 9:25,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,260","38,220","66,040",375476,,0
+"66,567",1/3/22 8:05,1/3/22 9:22,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"109,100","38,620","70,480",383998,,0
+"66,600",1/4/22 9:37,1/4/22 10:57,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,820","36,600","67,220",383728,,0
+"66,617",1/5/22 2:01,1/5/22 3:34,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,460","35,680","69,780",11860923,,0
+"66,625",1/5/22 8:50,1/5/22 10:04,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,340","36,660","67,680",383731,,0
+"66,656",1/6/22 8:19,1/6/22 9:41,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,100","35,600","69,500",383495,,0
+"66,689",1/7/22 2:46,1/7/22 4:11,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"102,440","32,180","70,260",60192,,0
+"66,699",1/7/22 8:36,1/7/22 9:59,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,420","32,540","70,880",383497,,0
+"66,741",1/8/22 8:44,1/8/22 10:00,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"101,980","31,200","70,780",375441,,0
+"66,755",1/9/22 4:04,1/9/22 6:05,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,300","29,720","67,580",11111,,0
+"66,805",1/11/22 9:00,1/11/22 10:05,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"99,280","30,020","69,260",383738,,0
+"66,844",1/12/22 8:57,1/12/22 10:09,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"99,180","29,880","69,300",383741,,0
+"66,874",1/13/22 0:38,1/13/22 2:10,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,280","28,400","69,880",11895909,,0
+"66,885",1/13/22 9:00,1/13/22 10:04,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,040","29,560","68,480",383744,,0
+"66,926",1/14/22 8:42,1/14/22 9:52,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,000","36,100","69,900",375903,,0
+"66,935",1/14/22 12:11,1/14/22 13:23,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"106,520","35,780","70,740",375904,,0
+"66,956",1/15/22 8:42,1/15/22 10:03,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,720","36,120","68,600",375906,,0
+"66,974",1/16/22 8:34,1/16/22 9:50,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,740","35,880","68,860",375909,,0
+"66,993",1/17/22 8:22,1/17/22 9:51,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,620","35,880","68,740",374776,,0
+"67,037",1/18/22 8:38,1/18/22 9:51,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"105,000","36,340","68,660",374779,,0
+"67,067",1/19/22 2:07,1/19/22 3:44,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,140","35,600","67,540",11928147,,0
+"67,074",1/19/22 8:54,1/19/22 10:41,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,700","36,480","67,220",383754,,0
+"67,115",1/20/22 8:51,1/20/22 9:52,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,140","36,120","68,020",383757,,0
+"67,139",1/21/22 2:21,1/21/22 3:47,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"104,700","35,480","69,220",11928137,,0
+"67,177",1/22/22 8:39,1/22/22 9:54,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,800","36,340","62,460",374784,,0
+"67,193",1/23/22 8:30,1/23/22 9:39,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"99,580","36,260","63,320",374786,,0
+"67,219",1/24/22 8:39,1/24/22 9:52,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"102,120","35,880","66,240",374789,,0
+"67,254",1/25/22 2:20,1/25/22 3:45,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,220","36,880","61,340",12345,,0
+"67,260",1/25/22 8:21,1/25/22 9:37,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,380","36,980","61,400",374791,,0
+"67,299",1/26/22 0:26,1/26/22 1:47,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"84,500","33,340","51,160",60975,,0
+"67,313",1/26/22 9:05,1/26/22 10:13,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"94,680","36,400","58,280",383764,,0
+"67,343",1/27/22 2:22,1/27/22 3:47,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,300","35,200","62,100",11960962,,0
+"67,355",1/27/22 9:11,1/27/22 10:29,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,060","35,980","62,080",11945,,0
+"67,400",1/28/22 8:50,1/28/22 10:02,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,860","36,360","62,500",11949,,0
+"67,434",1/28/22 23:34,1/29/22 1:09,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"98,680","35,000","63,680",60996,,0
+"67,454",1/29/22 12:06,1/29/22 13:20,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"103,100","35,800","67,300",11960999,,0
+"67,468",1/30/22 8:45,1/30/22 10:07,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"86,740","36,000","50,740",11960440,,0
+"67,481",1/30/22 23:38,1/31/22 1:29,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"97,140","35,140","62,000",18,,0
+"67,488",1/31/22 7:51,1/31/22 9:07,Milk Barn 5,Magic Valley Quality Milk,Magic Valley Quality Milk,"100,320","35,940","64,380",11990448,,0
